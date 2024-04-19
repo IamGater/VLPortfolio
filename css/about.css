@@ -1,4 +1,16 @@
 .about {
   background: rgb(217, 217, 217);
   color: #0f1923;
+  padding: 70px 0;
+}
+.about__title {
+  font-family: VALORANT;
+  font-size: 39px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.about__text{
+  text-align: center;
+  font-size: 27px;
 }
